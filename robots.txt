@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://myallocator.github.io/myallocator-ota-php-docs/sitemap.xml

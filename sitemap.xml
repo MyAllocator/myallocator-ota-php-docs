@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/index.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.phpsdkota.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.phpsdkota.src.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.phpsdkota.src.Api.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.phpsdkota.src.Api.Inbound.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/namespace-MyAllocator.phpsdkota.src.Object.html</loc>
+</url>
+
+
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/class-MyAllocator.phpsdkota.src.Api.Inbound.MaRouter.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/class-MyAllocator.phpsdkota.src.Object.MaError.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/class-MyAllocator.phpsdkota.src.Object.MaResponse.html</loc>
+</url>
+<url>
+	<loc>http://myallocator.github.io/myallocator-ota-php-docs/class-MyAllocator.phpsdkota.src.Api.Inbound.MaInboundInterface.html</loc>
+</url>
+</urlset>
